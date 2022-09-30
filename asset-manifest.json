@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Deposite-Withdraw-Money/static/css/main.54ffb8c6.css",
+    "main.js": "/Deposite-Withdraw-Money/static/js/main.8bf3f502.js",
+    "static/js/787.5e676c17.chunk.js": "/Deposite-Withdraw-Money/static/js/787.5e676c17.chunk.js",
+    "static/media/bank1.webp": "/Deposite-Withdraw-Money/static/media/bank1.de4094ab63f49fab8b5d.webp",
+    "index.html": "/Deposite-Withdraw-Money/index.html",
+    "main.54ffb8c6.css.map": "/Deposite-Withdraw-Money/static/css/main.54ffb8c6.css.map",
+    "main.8bf3f502.js.map": "/Deposite-Withdraw-Money/static/js/main.8bf3f502.js.map",
+    "787.5e676c17.chunk.js.map": "/Deposite-Withdraw-Money/static/js/787.5e676c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ffb8c6.css",
+    "static/js/main.8bf3f502.js"
+  ]
+}
